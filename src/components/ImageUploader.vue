@@ -45,7 +45,7 @@ export default {
       const canvas = document.getElementById(this.canvasId);
       canvas.toBlob(blob => {
         const formData = new FormData();
-        formData.append('image', blob, 'Canvas-Ruom.webp');
+        formData.append('image', blob, 'Canvas-WZ.webp');
         
         fetch(this.uploadApiUrl, {
           method: 'POST',
