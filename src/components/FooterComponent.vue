@@ -15,7 +15,7 @@
       <span>友善</span>
     </div>
     <div class="mt-2 space-x-2">
-      <span>© 2024</span>
+      <span>© 2025</span>
       <a href="https://pay.ioyik.cn" 
          target="_blank"
          class="font-bold text-green-600 hover:text-gray-600 transition-colors">WZ社区</a>
